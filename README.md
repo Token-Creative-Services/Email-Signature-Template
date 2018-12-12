@@ -1,7 +1,7 @@
 # Email-Signature-Template
 Custom HTML email signature for TokenCS team members 
 
-To deliver this solution to a new team member:
+To deliver this solution to a new team member:<br>
 Prepare an image of size 120x100
 Open the HTML file with an editor and replace "INSERT_X" with relevant info (do not modify INSERT_IMAGE)
 Provide the new team member with the following instructions, have them send a test email once they are finished
